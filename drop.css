@@ -416,6 +416,7 @@ margin-top: 35px;
     background: rgb(0,97,254);
     border: none;
     margin-top: 35px;
+    cursor: pointer;
 }
 .blue-button5:hover{
     filter: brightness(120%);
@@ -432,6 +433,7 @@ margin-top: 35px;
     background: rgb(0,97,254);
     border: none;
     margin-top: 35px;
+    cursor: pointer;
 }
 .blue-button6:hover{
    filter: brightness(120%);
