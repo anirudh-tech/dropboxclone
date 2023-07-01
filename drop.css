@@ -293,7 +293,7 @@ height: 680px;
     margin-top: 70px;
 }
 .plan-button input[type=radio]:checked{
-    /* cursor: pointer; */
+    cursor: pointer;
     accent-color: black;
     
 }
