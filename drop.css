@@ -291,6 +291,7 @@ height: 680px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding-left: 60px;
     margin-top: 70px;
+    cursor:pointer;
 }
 .plan-button input[type=radio]:checked{
     cursor: pointer;
